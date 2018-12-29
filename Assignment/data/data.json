@@ -1,0 +1,76 @@
+[
+
+    {   
+        "Interns": 5,
+        "Projects": 10,
+        "Time":"Jan"
+    },
+    
+    {
+        "Interns": 16,
+        "Projects": 20,
+        "Time":"Feb"
+    },
+    
+    {
+        "Interns": 36,
+        "Projects": 37,
+        "Time":"Mar"
+    },
+    
+    {
+        "Interns": 23,
+        "Projects": 12,
+        "Time":"Apr"
+    },
+    
+    {
+        "Interns": 58,
+        "Projects": 23,
+        "Time":"May"
+    },
+    
+    {
+        "Interns": 40,
+        "Projects": 12,
+        "Time":"Jun"
+    },
+    
+    {
+        "Interns": 37,
+        "Projects": 24,
+        "Time":"Jul"
+    },
+    
+    {
+        "Interns": 48,
+        "Projects": 12,
+        "Time":"Aug"
+    },
+    
+    {
+        "Interns": 53,
+        "Projects": 12,
+        "Time":"Sept"
+    },
+    
+    {
+        "Interns": 29,
+        "Projects": 23,
+        "Time":"Oct"
+    },
+    
+    {
+        "Interns": 48,
+        "Projects": 8,
+        "Time":"Nov"
+    },
+    
+    {
+        "Interns": 45,
+        "Projects": 32,
+        "Time":"Dec"
+    }
+    
+    
+]
